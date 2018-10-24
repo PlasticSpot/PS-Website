@@ -1,0 +1,11 @@
+#widget-subscribe-form {
+	display: block;
+	padding: 8px;
+	background-color: #FFF;
+	border: 1px solid #EEE;
+	border-radius: 3px;
+	box-shadow: 0 0 30px 4px rgba(0,0,0,0.15);
+	transition: box-shadow .4s linear;
+}
+
+#widget-subscribe-form:hover { box-shadow: 0 0 42px 4px rgba(0,0,0,.3) !important; }
